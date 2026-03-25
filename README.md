@@ -11,5 +11,6 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
 
-Automated business operations platform replacing manual data entry and daily inventory tracking with real time dashboards. The updated system lowered administrative workload by **approximately 20 percent** and improved database reliability to reduce stock inconsistencies by **10 to 15 percent** during peak hours.
+Automated business operations platform replacing manual data entry and daily inventory tracking with real time dashboards. The updated system lowered administrative workload by **approximately 20 percent** and improved database reliability to reduce stock inconsistencies by **10 to 15 percent**.
 
+📁 **GitHub:** [https://github.com/ahmademaish/Business-Workflow-Automation](https://github.com/ahmademaish/Business-Workflow-Automation)
