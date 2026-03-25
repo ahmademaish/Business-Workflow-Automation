@@ -13,4 +13,3 @@
 
 Automated business operations platform replacing manual data entry and daily inventory tracking with real time dashboards. The updated system lowered administrative workload by **approximately 20 percent** and improved database reliability to reduce stock inconsistencies by **10 to 15 percent** during peak hours.
 
-📁 **GitHub:** [https://github.com/YourUsername/Business-Workflow-Automation](https://github.com/YourUsername/Business-Workflow-Automation)
